@@ -35,8 +35,8 @@
 
     <Button
         android:id="@+id/purpelBTN"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="102dp"
+        android:layout_height="48dp"
         android:layout_marginStart="144dp"
         android:text="Purpel"
         android:textColor="#A476D1"
@@ -84,6 +84,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.849" />
+
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
